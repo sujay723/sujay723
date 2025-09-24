@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujay723" alt="sujay723" /></a> </p>
 
-- 🌱 I’m currently learning **AI&ML, Data science**
+- 🌱 I’m currently learning **AI & ML, Data science**
 
-- 👯 I’m looking to collaborate on **AI&ML Projects**
+- 👯 I’m looking to collaborate on **AI & ML Projects**
 
-- 🤝 I’m looking for help with **AI&ML, Data science**
+- 🤝 I’m looking for help with **AI & ML, Data science**
 
-- 💬 Ask me about **AI&ML, Data science**
+- 💬 Ask me about **AI & ML, Data science**
 
 - 📫 How to reach me **roysujay723@gmail.com**
 
